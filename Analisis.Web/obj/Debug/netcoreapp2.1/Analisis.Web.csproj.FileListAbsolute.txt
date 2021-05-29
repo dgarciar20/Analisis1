@@ -1,0 +1,17 @@
+C:\Project\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Project\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Project\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.deps.json
+C:\Project\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.runtimeconfig.json
+C:\Project\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.runtimeconfig.dev.json
+C:\Project\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.dll
+C:\Project\Analisis\Analisis.Web\bin\Debug\netcoreapp2.1\Analisis.Web.pdb
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.csprojAssemblyReference.cache
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.AssemblyInfoInputs.cache
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.AssemblyInfo.cs
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.csproj.CoreCompileInputs.cache
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.RazorAssemblyInfo.cache
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.RazorAssemblyInfo.cs
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.RazorTargetAssemblyInfo.cache
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.dll
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.pdb
+C:\Project\Analisis\Analisis.Web\obj\Debug\netcoreapp2.1\Analisis.Web.genruntimeconfig.cache
