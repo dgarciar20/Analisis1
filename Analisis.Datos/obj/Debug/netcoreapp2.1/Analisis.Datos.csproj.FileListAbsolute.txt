@@ -1,0 +1,9 @@
+C:\Project\Analisis\Analisis.Datos\bin\Debug\netcoreapp2.1\Analisis.Datos.deps.json
+C:\Project\Analisis\Analisis.Datos\bin\Debug\netcoreapp2.1\Analisis.Datos.dll
+C:\Project\Analisis\Analisis.Datos\bin\Debug\netcoreapp2.1\Analisis.Datos.pdb
+C:\Project\Analisis\Analisis.Datos\obj\Debug\netcoreapp2.1\Analisis.Datos.csprojAssemblyReference.cache
+C:\Project\Analisis\Analisis.Datos\obj\Debug\netcoreapp2.1\Analisis.Datos.AssemblyInfoInputs.cache
+C:\Project\Analisis\Analisis.Datos\obj\Debug\netcoreapp2.1\Analisis.Datos.AssemblyInfo.cs
+C:\Project\Analisis\Analisis.Datos\obj\Debug\netcoreapp2.1\Analisis.Datos.csproj.CoreCompileInputs.cache
+C:\Project\Analisis\Analisis.Datos\obj\Debug\netcoreapp2.1\Analisis.Datos.dll
+C:\Project\Analisis\Analisis.Datos\obj\Debug\netcoreapp2.1\Analisis.Datos.pdb
